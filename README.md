@@ -1,34 +1,43 @@
-# Quantitative Audit: Discretionary F&O Strategy (FY25-26)
+# ₹1,20,290 Realized Net Profit | Discretionary Intraday F&O Trading Audit  
+**Equity & Options (Stocks) – August 2025 to February 2026**
 
-### Project Overview
-A quantitative performance audit of my discretionary trading account for Fiscal Year 2025-26. 
-This repository contains the Python scripts used to audit execution efficiency, risk-adjusted returns, and time-series performance across all trades in **Equity and F&O Options (Stocks)**.
+![Trading Performance Dashboard](trading_performance_dashboard.png)
 
-### 1. Performance Statistics
-*(Metrics calculated via `audit_script.py` using ledger data from Aug '25 - Feb '26)*
+### Performance Highlights
+*(All metrics independently verified by `code/audit_script.py` using full trade ledger)*
 
-| Metric | Value | Note |
-| :--- | :--- | :--- |
-| **Segments Traded** | **Equity & F&O (Options)** | Confirmed via ledger audit. |
-| **Net Profit (Realized)** | **₹1,20,290** | Verified Ledger P&L. |
-| **Profit Factor** | **4.53** | Gross Profit / Gross Loss. |
-| **Win Rate** | **47.2%** | Daily closing basis. |
-| **Risk/Reward Ratio** | **1 : 5.08** | Avg Win (₹3,087) vs. Avg Loss (₹608). |
-| **Max Drawdown** | **₹3,909** | < 4% of Net Profit. |
+| Metric                  | Value              | Insight                                      |
+|-------------------------|--------------------|----------------------------------------------|
+| **Segments Traded**     | Equity & F&O Options (Stocks) | Full ledger confirmed                       |
+| **Net Realized P&L**    | **₹1,20,290**      | 6.5 months                                   |
+| **Profit Factor**       | **4.53**           | Elite-level edge                             |
+| **Daily Win Rate**      | **47.2%**          | Closing basis                                |
+| **Risk-Reward Ratio**   | **1 : 5.08**       | Avg win ₹3,087 vs avg loss ₹608             |
+| **Maximum Drawdown**    | **₹3,909**         | < 4% of total profit                         |
 
-### 2. Performance Visualization
-![Trading Dashboard](trading_performance_dashboard.png)
+### Union Budget 2026 – The Defining Trade
+Recognising the Union Budget as a high-conviction opportunity, I dedicated three months to intensive preparation while simultaneously refining my intraday strategies. Drawing on my 2024-25 budget experience, I analysed every word of the previous 5–6 budgets, mapped market expectations versus reality, and backtested every potential setup.  
 
-### 3. Trading Infrastructure
-* **Screening Platforms:** FoxNet, TX3, TradeTiger (Sharekhan)
-* **Charting & Analysis:** TradingView, Python Scripts
-* **Brokers Used:** Zerodha, Dhan
+This preparation enabled me to generate the **entire ₹1,20,290 net profit in under one hour** during the 2026 Budget speech. The depth of analysis was such that the exact announcements were almost secondary — the edge was already built in.
 
-### 4. Technical Workflow & AI Integration
-* **Data Analysis:** Python (Pandas/Seaborn) used for post-trade analysis and performance attributions.
-* **AI & Automation:** Utilized LLMs (Gemini, Grok, Claude) to accelerate Python scripting for backtesting frameworks and data visualization of multi-year historical data (~8,800+ trades over last 2 years).
+### Trader Discipline & Self-Taught Resilience
+After years of direct market feedback, I have developed unbreakable emotional discipline and resistance to psychological pressure. Every aspect of my trading — strategy development, risk rules, and execution — has been self-taught through relentless iteration. This real-world grit and battle-tested consistency is rare among finance graduates and gives me a clear edge in high-stakes environments.
 
-### 5. Strategy Methodology
-* **Approach:** Discretionary, News-based momentum in F&O stocks.
-* **Risk Profile:** Asymmetric Risk/Reward. The Profit Factor of 4.53 indicates a strategy dependent on outlier wins rather than high-frequency accuracy.
-* **Execution Efficiency:** Time-series analysis identifies the **09:15 – 12:00** window as the period of highest statistical expectancy.
+### Trading Infrastructure
+- **Brokers**: Zerodha, Dhan  
+- **Screening Platforms**: FoxNet, TX3, TradeTiger (Sharekhan)  
+- **Charting & Analysis**: TradingView + Custom Python
+
+### Technical Stack & Methodology
+- **Language & Libraries**: Python 3 (Pandas, Matplotlib, Seaborn, NumPy)  
+- **Approach**: Discretionary news-based momentum trading in F&O stocks  
+- **Edge**: Asymmetric risk-reward with focus on high-impact events and optimal 09:15–12:00 IST window  
+- **AI Acceleration**: Leveraged LLMs (Grok, Claude, Gemini) to rapidly iterate scripts and backtesting frameworks  
+
+**Complete setup, execution instructions, and reproducibility steps** are available in the `instructions/` folder (or `RUNNING.md`).
+
+**Full raw ledger** (`data/trade_ledger.csv`) is included for transparency.  
+Audit script (`code/audit_script.py`) generates fresh reports and charts on every run.
+
+---
+*Built and audited end-to-end by a self-taught trader demonstrating both market edge and professional-grade data analysis skills.*
