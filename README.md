@@ -2,7 +2,7 @@
 
 ### Project Overview
 A quantitative performance audit of my discretionary trading account for Fiscal Year 2025-26. 
-This repository contains the Python scripts used to audit execution efficiency, risk-adjusted returns, and time-series performance across **4,182 executions**.
+This repository contains the Python scripts used to audit execution efficiency, risk-adjusted returns, and time-series performance across all trades.
 
 ### 1. Performance Statistics
 *(Metrics calculated via `audit_script.py` using ledger data from Aug '25 - Feb '26)*
