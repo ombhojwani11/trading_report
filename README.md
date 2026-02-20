@@ -33,7 +33,7 @@ This battle-tested resilience and execution consistency is something no textbook
 
 ### Trading Infrastructure
 - **Broker**: Dhan  
-- **Screening**: FoxNet, TX3, TradeTiger (Sharekhan)  
+- **Screening**: FoxNet, TX3, TradeTiger (Sharekhan), Streak (Zerodha)  
 - **Charting**: TradingView
 - **Backtesting**: Using python scripts created in AI for intraday and swing strategies
 - **Data Source**: NSE Website
