@@ -53,6 +53,11 @@ This battle-tested resilience and execution consistency is something no textbook
 → [NSE-Institutional-Swing-Strategy](https://github.com/ombhojwani11/NSE-Institutional-Swing-Strategy)
 *(Swing Trading | Institutional footprint detection | Python data pipeline| Automated Excel heatmaps)*
 
+## 📬 Let's Connect
+I’m constantly looking to learn, build, and collaborate with like-minded people. 
+* **LinkedIn:** Om Bhojwani (https://www.linkedin.com/in/om-bhojwani-92433b27b/)
+* **Email:** ombhojwani11@gmail.com
+
 **Complete setup, installation & running instructions** → [RUNNING.md](RUNNING.md)
 **Full trade ledger** (`data/trade_ledger.csv`) included for complete transparency.  
 Audit script (`code/audit_script.py`) regenerates all charts and metrics in one click.
