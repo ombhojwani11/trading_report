@@ -48,12 +48,12 @@ This battle-tested resilience and execution consistency is something no textbook
 ### Experience
 - 5 years of experience in market which includes 2 years as intraday trader. Took over 8800 trades in equity and options. Started as an options trader in Nifty and Banknifty but later shifted to FnO stocks. From basic Technical Analysis to creating python scripts using AI which can process gb's of data, learnt each and everything along the way.
 
-### 🔗 Related Project
+### Related Project
 **Algorithmic Swing Trading System for NSE F&O**
 → [NSE-Institutional-Swing-Strategy](https://github.com/ombhojwani11/NSE-Institutional-Swing-Strategy)
 *(Swing Trading | Institutional footprint detection | Python data pipeline| Automated Excel heatmaps)*
 
-## 📬 Let's Connect
+### Let's Connect
 I’m constantly looking to learn, build, and collaborate with like-minded people. 
 * **LinkedIn:** Om Bhojwani (https://www.linkedin.com/in/om-bhojwani-92433b27b/)
 * **Email:** ombhojwani11@gmail.com
