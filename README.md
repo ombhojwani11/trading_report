@@ -58,8 +58,7 @@ I’m constantly looking to learn, build, and collaborate with like-minded peopl
 * **LinkedIn:** Om Bhojwani (https://www.linkedin.com/in/om-bhojwani-92433b27b/)
 * **Email:** ombhojwani11@gmail.com
 
-
-
+##Setup & Execution
 **Complete setup, installation & running instructions** → [RUNNING.md](RUNNING.md)
 **Full trade ledger** (`data/trade_ledger.csv`) included for complete transparency.  
 Audit script (`code/audit_script.py`) regenerates all charts and metrics in one click.
